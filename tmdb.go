@@ -1,8 +1,8 @@
 // Package tmdb is a Go SDK for The Movie Database (TMDB) HTTP API.
 //
 // The 152 operations in the TMDB v3 spec are split across sub-packages by
-// their URL prefix — Movies under [github.com/thulasirajkomminar/tmdb-go/movie],
-// TV under [github.com/thulasirajkomminar/tmdb-go/tv], and so on. The Client
+// their URL prefix — Movies under [github.com/komminarlabs/tmdb-go/movie],
+// TV under [github.com/komminarlabs/tmdb-go/tv], and so on. The Client
 // returned by [New] aggregates one client per sub-package so callers can
 // reach any endpoint from a single entry point:
 //

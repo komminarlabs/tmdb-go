@@ -38,7 +38,7 @@ const (
 	specPath       = "tmdb-api.json"
 	taggedDir      = ".codegen"
 	taggedSpecPath = ".codegen/tmdb-api.tagged.json"
-	modulePath     = "github.com/thulasirajkomminar/tmdb-go"
+	modulePath     = "github.com/komminarlabs/tmdb-go"
 	facadePath     = "tmdb.gen.go"
 )
 

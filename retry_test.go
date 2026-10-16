@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/thulasirajkomminar/tmdb-go"
+	"github.com/komminarlabs/tmdb-go"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

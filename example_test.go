@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/thulasirajkomminar/tmdb-go"
+	"github.com/komminarlabs/tmdb-go"
 )
 
 // Basic usage: construct an aggregated client with a v4 read-access token

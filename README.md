@@ -1,8 +1,8 @@
 # tmdb-go
 
-[![CI](https://github.com/thulasirajkomminar/tmdb-go/actions/workflows/ci.yml/badge.svg)](https://github.com/thulasirajkomminar/tmdb-go/actions/workflows/ci.yml)
-[![Go Reference](https://pkg.go.dev/badge/github.com/thulasirajkomminar/tmdb-go.svg)](https://pkg.go.dev/github.com/thulasirajkomminar/tmdb-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/thulasirajkomminar/tmdb-go)](https://goreportcard.com/report/github.com/thulasirajkomminar/tmdb-go)
+[![CI](https://github.com/komminarlabs/tmdb-go/actions/workflows/ci.yml/badge.svg)](https://github.com/komminarlabs/tmdb-go/actions/workflows/ci.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/komminarlabs/tmdb-go.svg)](https://pkg.go.dev/github.com/komminarlabs/tmdb-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/komminarlabs/tmdb-go)](https://goreportcard.com/report/github.com/komminarlabs/tmdb-go)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 An unofficial Go SDK for [The Movie Database (TMDB) API](https://developer.themoviedb.org/).
@@ -19,7 +19,7 @@ auth, and HTTP timeout.
 ## Install
 
 ```sh
-go get github.com/thulasirajkomminar/tmdb-go
+go get github.com/komminarlabs/tmdb-go
 ```
 
 Importing the SDK has no special Go-version requirement; regenerating it
@@ -39,7 +39,7 @@ import (
     "log"
     "os"
 
-    "github.com/thulasirajkomminar/tmdb-go"
+    "github.com/komminarlabs/tmdb-go"
 )
 
 func main() {

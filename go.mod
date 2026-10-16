@@ -1,4 +1,4 @@
-module github.com/thulasirajkomminar/tmdb-go
+module github.com/komminarlabs/tmdb-go
 
 go 1.26.3
 
